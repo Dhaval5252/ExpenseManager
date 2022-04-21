@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ExpenseManager/static/css/main.fb4efa80.css",
+    "main.js": "/ExpenseManager/static/js/main.f595e08a.js",
+    "index.html": "/ExpenseManager/index.html",
+    "main.fb4efa80.css.map": "/ExpenseManager/static/css/main.fb4efa80.css.map",
+    "main.f595e08a.js.map": "/ExpenseManager/static/js/main.f595e08a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fb4efa80.css",
+    "static/js/main.f595e08a.js"
+  ]
+}
